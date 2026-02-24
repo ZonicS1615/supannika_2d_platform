@@ -1,0 +1,545 @@
+fileFormatVersion: 2
+guid: a45643ac5f1800041ac13394836dee16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7384241477624896233
+    second: Arisa_attack_0
+  - first:
+      213: 7789899089884961256
+    second: Arisa_attack_1
+  - first:
+      213: 2278414115391631695
+    second: Arisa_attack_2
+  - first:
+      213: -6751285662708263228
+    second: Arisa_attack_3
+  - first:
+      213: 908416938195728488
+    second: Arisa_attack_4
+  - first:
+      213: -1995442498017456600
+    second: Arisa_attack_5
+  - first:
+      213: -846033200580390052
+    second: Arisa_attack_6
+  - first:
+      213: -6294930557393903053
+    second: Arisa_attack_7
+  - first:
+      213: -3744400099067646678
+    second: Arisa_attack_8
+  - first:
+      213: 5831703969008558245
+    second: Arisa_attack_9
+  - first:
+      213: -1508265896350397758
+    second: Arisa_attack_10
+  - first:
+      213: 6886082592446182567
+    second: Arisa_attack_11
+  - first:
+      213: -2940233463436529848
+    second: Arisa_attack_12
+  - first:
+      213: 1731075992517446266
+    second: Arisa_attack_13
+  - first:
+      213: 2311981809733511730
+    second: Arisa_attack_14
+  - first:
+      213: 1306500378717603604
+    second: Arisa_attack_15
+  - first:
+      213: -4922491863609024287
+    second: Arisa_attack_16
+  - first:
+      213: 8763529812191174181
+    second: Arisa_attack_17
+  - first:
+      213: -2313048401646170440
+    second: Arisa_attack_18
+  - first:
+      213: -2219497337903277225
+    second: Arisa_attack_19
+  - first:
+      213: 2276406874658414525
+    second: Arisa_attack_20
+  - first:
+      213: 6195284951348138436
+    second: Arisa_attack_21
+  - first:
+      213: 7049069984638065840
+    second: Arisa_attack_22
+  - first:
+      213: 8862042482156750372
+    second: Arisa_attack_23
+  - first:
+      213: -3133332781345344140
+    second: Arisa_attack_24
+  - first:
+      213: 6885278824565748775
+    second: Arisa_attack_25
+  - first:
+      213: -471839782101939473
+    second: Arisa_attack_26
+  - first:
+      213: -3148837560009582640
+    second: Arisa_attack_27
+  - first:
+      213: 7432922724400635851
+    second: Arisa_attack_28
+  - first:
+      213: -5240087281520559523
+    second: Arisa_attack_29
+  - first:
+      213: 1185909933289195716
+    second: Arisa_attack_30
+  - first:
+      213: -1308120129578134025
+    second: Arisa_attack_31
+  - first:
+      213: -3774825982975084708
+    second: Arisa_attack_32
+  - first:
+      213: 6629268897188075810
+    second: Arisa_attack_33
+  - first:
+      213: -5264949247900629452
+    second: Arisa_attack_34
+  - first:
+      213: -4214208605733762780
+    second: Arisa_attack_35
+  - first:
+      213: 3630575347521101217
+    second: Arisa_attack_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arisa_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea998120881a7660800000000000000
+      internalID: 7384241477624896233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e95bb813f74b1c60800000000000000
+      internalID: 7789899089884961256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 768
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41772ff09d8e9f10800000000000000
+      internalID: 2278414115391631695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_3
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 768
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61619a57d9e42a0800000000000000
+      internalID: -6751285662708263228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_4
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 768
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868ba1d64685b9c00800000000000000
+      internalID: 908416938195728488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_5
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 768
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e83ffce93ce44e0800000000000000
+      internalID: -1995442498017456600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53183b59494244f0800000000000000
+      internalID: -846033200580390052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332e8c0920ae3a8a0800000000000000
+      internalID: -6294930557393903053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da226d2f7390cc0800000000000000
+      internalID: -3744400099067646678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_9
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0adf3bcdf5ee050800000000000000
+      internalID: 5831703969008558245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_10
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac23d8820911be0800000000000000
+      internalID: -1508265896350397758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arisa_attack_11
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 960
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a471c042a7409f50800000000000000
+      internalID: 6886082592446182567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5fe12e70e14e05b4ebfe39fa398f192d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":2.0},"gridSpriteSize":{"x":960.0,"y":768.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Arisa_attack_0: 7384241477624896233
+      Arisa_attack_1: 7789899089884961256
+      Arisa_attack_10: -1508265896350397758
+      Arisa_attack_11: 6886082592446182567
+      Arisa_attack_2: 2278414115391631695
+      Arisa_attack_3: -6751285662708263228
+      Arisa_attack_4: 908416938195728488
+      Arisa_attack_5: -1995442498017456600
+      Arisa_attack_6: -846033200580390052
+      Arisa_attack_7: -6294930557393903053
+      Arisa_attack_8: -3744400099067646678
+      Arisa_attack_9: 5831703969008558245
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
